@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDAD01</color>
+    <color name="colorPrimaryDark">#FDAD01</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="hometext">#686868</color>
+    <color name="item_back_press">#10000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="itemwhite">#bFbFbF</color>
+    <color name="menuwhite">#11FFFFFF</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="black">#000000</color>
+    <color name="text_login">#c1c1c1</color>
+    <color name="register_bg">#f3f3f3</color>
+    <color name="register_check">#ffcc77</color>
+    <color name="register_state_bg">#f3f3f3</color>
+    <color name="register_bt">#FDAD01</color>
+    <color name="register_bt1">#AAFDAD01</color>
+    <color name="line">#e5e5e5</color>
+    <color name="bar_color">#383A3E</color>
+    <color name="bar_color_gray_line">#333332</color>
+
+    <color name="homebar_color">#FDAD01</color>
+
+    <color name="titlegray">#C0C0C0</color>
+
+    <color name="title">#fec046</color>
+    <color name="home_line">#EDEDEC</color>
+
+    <color name="textcolor">#696969</color>
+    <color name="pressselector">#dfd8d8</color>
+
+    <color name="xre_line">#FCFBFC</color>
+    <color name="blackbar">#2e3234</color>
+    <color name="blackbg">#181e1e</color>
+    <color name="blacktop_bar">#393a3f</color>
+    <color name="txt_1">#353535</color>
+    <color name="txt_2">#828282</color>
+    <color name="wheel_timebtn_nor">#54a3fa</color>
+    <color name="wheel_timebtn_pre">#CCCCCC</color>
+    <color name="white_b">#fdfcfc</color>
+    <color name="gray">#aa8F8F8F</color>
+    <color name="register_bt2">#bbFDAD01</color>
+
+
+
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="color_theme">#489cfa</color>
+
+    <color name="color_emote_divder">#ffa1a1a1</color>
+    <color name="color_bottom_bg">#272a2e</color>
+    <color name="color_bottom_text_normal">#9da0a4</color>
+    <color name="color_bottom_text_press">#4f9ef6</color>
+    <color name="text_gray">#969696</color>
+    <color name="msg_chat_bg">#eceff4</color>
+
+    <color name="theme_bg_color">#f0f2f5</color>
+    <color name="c_f98800">#ed4e23</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="dialog_color_title">#f82c22</color>
+    <color name="guide_color">#898989</color>
+
+    <color name="common_bg">#fcfcfc</color>
+    <color name="color_99">#999999</color>
+    <color name="color_line">#dadada</color>
+    <color name="color_chat_send_status">#818181</color>
+    <color name="color_msg_system_time_bg">#20000000</color>
+    <color name="color_1e1e1e">#1e1e1e</color>
+    <color name="color_b4">#b4b4b4</color>
+</resources>
